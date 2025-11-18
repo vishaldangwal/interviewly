@@ -2,8 +2,11 @@
 
 A comprehensive AI-powered interview preparation and hiring platform that connects candidates with interviewers through real-time collaboration, interactive assessments, and intelligent job matching.
 
-! Platform](https://github.com/vishaldangwal/interviewly/blob/main/public/ss03.png)
-! Banner](https://github.com/vishaldangwal/interviewly/blob/main/public/ss01.png)
+**Platform Screenshot**
+![Platform](https://raw.githubusercontent.com/vishaldangwal/interviewly/main/public/ss03.png)
+
+**Banner Screenshot**
+![Banner](https://raw.githubusercontent.com/vishaldangwal/interviewly/main/public/ss01.png)
 
 ## 🚀 Features
 
